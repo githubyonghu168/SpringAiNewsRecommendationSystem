@@ -5,3 +5,5 @@ SDK: Oracle JDK 17.0.13
 依赖管理工具: Maven 3.8.1  
 #### 运行环境
 操作系统: Windows 10
+#### 使用方式
+将配置文件application.properties内的api-key，model和base-url更换成自己的
